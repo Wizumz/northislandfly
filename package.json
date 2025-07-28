@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "North Island Fly & Light Tackle - Fishing Guide Website",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
