@@ -1,0 +1,25 @@
+{
+  "name": "north-island-fly",
+  "version": "1.0.0",
+  "description": "North Island Fly & Light Tackle - Fishing Guide Website",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "keywords": ["fishing", "guide", "long island", "fly fishing"],
+  "author": "Captain Dave Flanagan",
+  "license": "MIT",
+  "dependencies": {
+    "@headlessui/vue": "^2.2.0",
+    "@heroicons/vue": "^2.2.0",
+    "@nuxt/ui": "^3.1.5",
+    "@nuxtjs/color-mode": "^3.5.2",
+    "@nuxtjs/tailwindcss": "^6.12.1",
+    "nuxt": "^4.0.3"
+  }
+}
